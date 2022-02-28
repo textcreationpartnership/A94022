@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from Tovver-Ditch being a perfect relation of the vast quantity of fish taken there on Fryday the 20th of this instant October : with the strange manner of their coming in ... as also, the most profitable conjectures of intelligent persons concerning the cause or reason of this wonderful accident.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94022</idno>
+            <idno type="STC">Wing S5909</idno>
+            <idno type="STC">ESTC R42905</idno>
+            <idno type="EEBO-CITATION">38875924</idno>
+            <idno type="OCLC">ocm 38875924</idno>
+            <idno type="VID">152431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from Tovver-Ditch being a perfect relation of the vast quantity of fish taken there on Fryday the 20th of this instant October : with the strange manner of their coming in ... as also, the most profitable conjectures of intelligent persons concerning the cause or reason of this wonderful accident.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby in West-Smith's-field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>"This may be printed, October 24. Roger L'Estrange."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fishes --  Stranding --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152431:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>STRANGE NEVVS FROM Tovver-Ditch: Being a Perfect Relation of the vaſt Quantity of FISH taken there on Fryday the 20th. of this inſtant <hi>October.</hi>
+            </p>
+            <p>With the ſtrange manner of their coming in, in ſuch abundance, and how ſome of them dyed and Stunk as ſoon as they were handled, others were very ſweet, and eaten without any Ill Effects.</p>
+            <p>AS ALSO The moſt probable Conjectures of Intelligent perſons concerning the Cauſe or Reaſon of this wonderful Accident.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <dateline>
+                              <date>October 24.</date>
+                           </dateline> 
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>P. Brooksby</hi> in <hi>Weſt-Smith's-field.</hi>
+            </p>
+            <pb facs="tcp:152431:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:152431:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152431:3"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="1" facs="tcp:152431:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>
+               <hi>News from</hi> Tower-Ditch, &amp;c.</head>
+            <p>THe odd Accidents of an unuſual multitude of Fiſh that lately came into, and were taken in <hi>Tower-ditch,</hi> and other Creeks belong<g ref="char:EOLhyphen"/>ing to the River of Thames, ha<g ref="char:EOLhyphen"/>ving occaſion'd much diſcourſe a<g ref="char:EOLhyphen"/>bout this City, it has been thought convenient for publique ſatisfaction to give a particular and true Relation of the matter, with its moſt remarkable circumſtances which the Reader may take as fol<g ref="char:EOLhyphen"/>lows, on the Teſtimony of credible eye-witneſſes.</p>
+            <p>On Friday the Twentieth of this inſtant <hi>October,</hi> it being that day High-water at <hi>London-bridge</hi> a<g ref="char:EOLhyphen"/>bout ten a Clock; the Tide coming in and flow<g ref="char:EOLhyphen"/>ing (according to the uſual manner, when it is permitted by the gates being open) into the Moat or Ditch that ſurrounds the Royal Arſenal, com<g ref="char:EOLhyphen"/>monly
+<pb n="2" facs="tcp:152431:4"/>
+               <!-- PDF PAGE 22 -->called the Tower of <hi>London,</hi> brought with it an incredible number of Fiſh; Inſomuch that a poor Boy who was playing, or otherwiſe idling on the Bank, being (as we hear) the firſt diſco<g ref="char:EOLhyphen"/>verer would needs ſeeing ſuch a great quantity un<g ref="char:EOLhyphen"/>dreſs himſelf as far as his Shooes, Stockings and Breeches, and ſo waded in, and took up divers of them with his hands and flung them to the ſhoar, this was before eight a clock, being there then but young Flood.</p>
+            <p>The ſight of his action ſoon drew many others to be at once ſpectators and admirers of the mat<g ref="char:EOLhyphen"/>ter, and that which added to their wonder, was that they could plainly ſee great numbers of ſmall Fiſh floating as it were with their heads on the ſurface of the water, which made many others go in like<g ref="char:EOLhyphen"/>vviſe, ſome vvith Netts, and others vvithout; for the ſhoal vvas ſo numerous that they could hardly miſs of catching ſeveral at a time onely vvith their hands; They ſeemed not ſo much to uſe their na<g ref="char:EOLhyphen"/>tural povver of ſvvimming vvith their Fins, as to lye ſtill and ſuffer themſelves to be gently carried vvith the Current of the ſtream, but vvhen touch'd (unleſs ſuddenly toſs'd up and taken) could nimbly glide away, ſo that 'twas plain they had life, but were in a manner ſtupified, and did not exerciſe it till provoked thereunto by ſome external Vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>
+               <pb n="3" facs="tcp:152431:4"/>
+               <!-- PDF PAGE 22 -->
+The number or quantity taken in all it is not at all poſſible to ſet forth, conſidering how many per<g ref="char:EOLhyphen"/>ſons by ſeveral means imploy'd themſelves to take them; my ſelf ſpake with three perſons that ſeve<g ref="char:EOLhyphen"/>rally affirm'd each of them got near a Buſhel, as for the particular kinds of the Fiſh they were ſuch as the River is generally ſtor'd with, that is to ſay, Roaches, Dace, Perches, Eels, &amp;c.</p>
+            <p>Theſe Fiſh whilſt in the Water were generally obſerved to gaſp as for ayr, and many of them immediately as ſoon as they were touch'd, dyed; and preſently ſtunk, which were flung away: o<g ref="char:EOLhyphen"/>thers appeared ruddy and freſh, and many people (eſpecially of the meaner ſort) dreſt and eat of them, affirming that they never taſted better, nor did any Indiſpoſition or ill effects follow to any that fed on them that we can hear of.</p>
+            <p>Divers Gentlemen and Citizens that had Water Spaniels would fling in ſtones or the like, and the Dogs following to fetch them; ſeldome fail'd in ſtead thereof to bring out a Fiſh in their mouths. When the Tide fell, great quantities were left gaſping on the banks, ſome alive, but more dead; and ſome Fiſher-men having planted Nets at the Sluce or Gate where the water goes out, caught a vaſt number.</p>
+            <p>
+               <pb n="4" facs="tcp:152431:5"/>
+               <!-- PDF PAGE 23 -->
+Nor was it only here, for at Lime-houſe-bridge, The Shore at Wapping; Black-wall; the Dock<g ref="char:EOLhyphen"/>head in Southwark, and other places there was the like; and above Bridge alſo, (as we are informed) the ſame was obſerved by divers Fiſher-men, who admired at the prodigious draughts they made that day, above all other times.</p>
+            <p>The reaſons of this wonderful plenty of Fiſh ap<g ref="char:EOLhyphen"/>pearing in ſo ſtrange a manner, are variouſly aſſign<g ref="char:EOLhyphen"/>ed; To ſay 'tis a thing ordinary, will be contra<g ref="char:EOLhyphen"/>dicted by common experience. For as the like had not been known before, ſo was not there any ſuch thing the very next Tide after, or any time ſince, though expected and curiouſly obſerved by many; To aſcribe it to chance is below the thoughts of a wiſe man, who knows there is no ſuch thing as that fortuitous Goddeſs exiſtent in the world, ſave in the vain and ignorant imaginations of fools, who blindly attribute thereunto whatever they can<g ref="char:EOLhyphen"/>not underſtand, whereas in truth nothing comes to paſs without its proper cauſes, Cooperating to a certain determinate effect.</p>
+            <p>
+               <pb n="5" facs="tcp:152431:5"/>
+               <!-- PDF PAGE 23 -->
+Nor need we run to ſuch a ſilly Aſilum for the ſolution of this buſineſs; ſome think the cauſe may onely be, that great multitudes of Fiſh brought down by the freſh waters after the late rains, be<g ref="char:EOLhyphen"/>ing ſuddenly hurried into the ſalt water, which late<g ref="char:EOLhyphen"/>ly has (by reaſon of the former long drought,) been obſerved to flow beyond the uſual marks, even almoſt as far as <hi>London-Bridge,</hi> might be the occa<g ref="char:EOLhyphen"/>ſion of it. The River Fiſh being diſturbed with that brackiſh Aliment, flying from it into every opportune creek. But others rather judge it might be cauſed by great quantities of ſome ſtupefying Bait thrown or faln in, which laying them for a time as it were aſleep, made them inſenſibly be born in with the current of the Tide; We know ſeveral ſorts of Paſts artificially made, and ſome natural druggs which Fiſh are extreamly greedy of; have a quality ſo to intoxicate them, that they may eaſily be taken up by hand; and that ſomething of like kind was in this caſe is very probable from their gaſping and ſwimming on the ſurface of the water, which operating more with ſome than o<g ref="char:EOLhyphen"/>thers according to the quantity received, might oc<g ref="char:EOLhyphen"/>caſion the killing and putrefaction of part, whilſt the reſt remained (though not altogether undiſtem<g ref="char:EOLhyphen"/>pered) yet more lively and wholeſome.</p>
+            <p>
+               <pb n="6" facs="tcp:152431:6"/>
+               <!-- PDF PAGE 24 -->
+We read in Hiſtory, that as <hi>Auguſtus</hi> was once walking on the Shoar, ſeveral Fiſhes leap'd out of the Sea and caſt themſelves at his feet, which by the learned of thoſe times was conſtrued as a good Omen, that Nepture had adopted and received him for his Lieutenant over the Ocean inſtead of <hi>Sextus Pompeius;</hi> nor was the prediction fruſtrated by the event, the Empire of the World (as well by Sea as Land) being ſoon after peaceably veſted in that illuſtrious and well deſerving Roman.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152431:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
